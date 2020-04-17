@@ -4,8 +4,8 @@
   <contributor>
    <authoring_tool>SceneKit Collada Exporter v1.0</authoring_tool>
   </contributor>
-  <created>2020-04-15T09:19:53Z</created>
-  <modified>2020-04-15T09:19:53Z</modified>
+  <created>2020-04-17T03:29:05Z</created>
+  <modified>2020-04-17T03:29:05Z</modified>
   <unit meter="0.025400"/>
   <up_axis>Y_UP</up_axis>
  </asset>
@@ -529,6 +529,7 @@
     <node id="ID107" name="instance_1">
      <matrix>1 0 0 -0.5093449 0 1 0 -0.07515399 0 0 1 -0.356827 0 0 0 1 </matrix>
      <node id="ID108" name="skpI7mX9X">
+      <matrix>-0.6046747 -0.6783662 0.4169623 0.464406 -0.6702486 0.1509137 -0.7264242 1.117587e-08 0.4299418 -0.7187979 -0.5460233 0.473556 0 0 0 1 </matrix>
       <node id="ID109" name="instance_2">
        <node id="ID110" name="obj0">
         <node id="ID111" name="ID111">
