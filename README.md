@@ -1,4 +1,4 @@
-# ARkit_Demy
+# ARkit_Demy [![HitCount](http://hits.dwyl.com/Odyflame/Odyflame/ARkit_Demy.svg)](http://hits.dwyl.com/Odyflame/Odyflame/ARkit_Demy)
 this repo is my ARkit Apps and learning with Udemy!
 
 ## how to learn?
